@@ -1,0 +1,7 @@
+{
+  "name": "SmartPOS - Kasir & Stok",
+  "description": "Aplikasi Kasir dan Manajemen Stok barang offline-first dengan kecerdasan buatan.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
